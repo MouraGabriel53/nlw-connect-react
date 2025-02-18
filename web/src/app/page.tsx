@@ -5,7 +5,7 @@ import{ IconButton } from "@/components/icon-button";
 export default function Home() {
   return (
     <main>
-      <Button>
+      <Button type="submit">
         Enviar
         <ArrowRight/>
       </Button>
